@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+
+# env
+.env
+
+# builds
+dist
+build
+
+# OS
+.DS_Store
+
+# Excel temp files
+~$*.xlsx
