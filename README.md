@@ -117,10 +117,3 @@ Preference stored in localStorage
 Fully Tailwind-based (class strategy)
 
 
-Vercel or Netlify
-
-Backend
-
-Render
-
-Update the frontend API base URL after deployment.
